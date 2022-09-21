@@ -1,0 +1,1 @@
+const String text = "Flutter code compiles to ARM or Intel machine code as well as JavaScript, for fast performance on any device.";
